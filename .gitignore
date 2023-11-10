@@ -1,0 +1,8 @@
+# Other
+hadd
+
+# CMake/Make
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+CMakeFiles/
